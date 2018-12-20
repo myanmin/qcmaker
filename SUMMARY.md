@@ -141,7 +141,7 @@
     * [直流减速电机](hardware/zhi-xing-qi/zhi-liu-jian-su-dian-ji.md)
   * [特殊模块](hardware/te-shu-mo-kuai.md)
     * [录放音模块](hardware/te-shu-mo-kuai/lu-fang-yin-mo-kuai.md)
-  * [mcookie硬件相关支持](hardware/mcookie-ying-jian-xiang-guan-zhi-chi.md)
+  * [mCookie硬件相关支持](hardware/mcookie-ying-jian-xiang-guan-zhi-chi.md)
     * [Mixly程序块手册](hardware/mcookie-ying-jian-xiang-guan-zhi-chi/mixlycheng-xu-kuai-shou-ce.md)
-    * [mcookie硬件模块](hardware/mcookie-ying-jian-xiang-guan-zhi-chi/mcookieying-jian-mo-kuai.md)
+    * [mCookie硬件模块](hardware/mcookie-ying-jian-xiang-guan-zhi-chi/mcookieying-jian-mo-kuai.md)
 
