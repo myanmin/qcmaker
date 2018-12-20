@@ -18,6 +18,7 @@ HC-05蓝牙模块通过甜橙版与PC实现通信，可以通过串口调试助�
 
 也可以用代码编程使用Arduino IDE来编程，代码如下：
 
+```
 \#include <SoftwareSerial.h>
 
 volatile char s;
@@ -47,6 +48,10 @@ void loop(){
   }
 
 }
+
+
+```
+
 
 #### 4、硬件连接
 
