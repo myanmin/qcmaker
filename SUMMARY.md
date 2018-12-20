@@ -87,6 +87,7 @@
     * [项目八 小小作曲家](software/tian-cheng-shi-li-cheng-xu/xiang-mu-ba-xiao-xiao-zuo-qu-jia.md)
       * [任务1——简单音阶](software/tian-cheng-shi-li-cheng-xu/xiang-mu-ba-xiao-xiao-zuo-qu-jia/ren-wu-1-2014-2014-jian-dan-yin-jie.md)
       * [任务2——简单乐曲](software/tian-cheng-shi-li-cheng-xu/xiang-mu-ba-xiao-xiao-zuo-qu-jia/ren-wu-2-2014-2014-jian-dan-le-qu.md)
+    * [项目九 噪音计](software/tian-cheng-shi-li-cheng-xu/xiang-mu-jiu-zao-yin-ji.md)
   * [注意事项](software/zhu-yi-shi-xiang.md)
     * [硬件选择](software/zhu-yi-shi-xiang/ying-jian-xuan-ze.md)
     * [版型选择](software/zhu-yi-shi-xiang/ban-xing-xuan-ze.md)
