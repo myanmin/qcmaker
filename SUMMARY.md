@@ -4,8 +4,8 @@
 * [软件说明书](software.md)
   * [认识Mixly](software/ren-shi-mixly.md)
     * [安装Mixly](software/ren-shi-mixly/an-zhuang-mixly.md)
-    * 安装驱动
-    * Mixly界面介绍
+    * 安装驱动(software/ren-shi-mixly/anhuangqudong.md)
+    * Mixly界面介绍(software/ren-shi-mixly/Mixlyjiemianjieshao.md)
   * [Mixly系统介绍](software/mixlyxi-tong-jie-shao.md)
   * [甜橙示例程序](software/tian-cheng-shi-li-cheng-xu.md)
   * [注意事项](software/zhu-yi-shi-xiang.md)
