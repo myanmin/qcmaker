@@ -520,3 +520,4 @@ GND：与地管脚相连。
 ![img](/assets/image190.jpg)
 
 图2.10-4
+
