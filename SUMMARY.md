@@ -83,6 +83,7 @@
       * [任务3——制作电子蜡烛](software/tian-cheng-shi-li-cheng-xu/xiang-mu-liu-zhi-neng-deng/ren-wu-3-2014-2014-zhi-zuo-dian-zi-la-zhu.md)
     * [项目七 创意门铃](software/tian-cheng-shi-li-cheng-xu/xiang-mu-qi-chuang-yi-men-ling.md)
       * [任务1——让蜂鸣器发声](software/tian-cheng-shi-li-cheng-xu/xiang-mu-qi-chuang-yi-men-ling/ren-wu-1-2014-2014-rang-feng-ming-qi-fa-sheng.md)
+      * [任务2——制作简易门铃](software/tian-cheng-shi-li-cheng-xu/xiang-mu-qi-chuang-yi-men-ling/ren-wu-2-2014-2014-zhi-zuo-jian-yi-men-ling.md)
   * [注意事项](software/zhu-yi-shi-xiang.md)
     * [硬件选择](software/zhu-yi-shi-xiang/ying-jian-xuan-ze.md)
     * [版型选择](software/zhu-yi-shi-xiang/ban-xing-xuan-ze.md)
