@@ -61,7 +61,13 @@
       * [”参数“程序块简介](software/mixlyxi-tong-jie-shao/han-shu-mo-kuai-jie-shao/canshu.md)
       * [“函数执行”程序跨介绍](software/mixlyxi-tong-jie-shao/han-shu-mo-kuai-jie-shao/zhixing.md)
   * [甜橙示例程序](software/tian-cheng-shi-li-cheng-xu.md)
+    * 项目一 HELLO WORLD
   * [注意事项](software/zhu-yi-shi-xiang.md)
+    * [硬件选择](software/zhu-yi-shi-xiang/ying-jian-xuan-ze.md)
+    * 版型选择
+    * COM口选择
+    * 编译失败
+    * 上传失败
 * [硬件说明书](hardware.md)
   * [甜橙2.0主控板](hardware/tian-cheng-2-0-zhu-kong-ban.md)
     * [使用案例](hardware/tian-cheng-2-0-zhu-kong-ban/shi-yong-an-li.md)
