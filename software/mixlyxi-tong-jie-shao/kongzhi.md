@@ -6,6 +6,5 @@
 
 对应的MIxly模块，如图 2.3-1所示：
 
-![img](/assets/image092.jpg)
+![图2.3-1](/assets/image092.jpg)
 
-图2.3-1

@@ -6,6 +6,5 @@
 
 注：1秒=10^3毫秒=10^6微秒。
 
-![img](/assets/image096.jpg)
+![图2.3-3](/assets/image096.jpg)
 
-图2.3-3
