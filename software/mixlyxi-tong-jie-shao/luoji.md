@@ -2,6 +2,5 @@
 
 逻辑关系：比较、与、或、非、空、条件命题；
 
-![img](/assets/image160.jpg)
+![图2.7-1](/assets/image160.jpg)
 
-图2.7-1
