@@ -6,29 +6,29 @@
 
 #### 2、流程图
 
-![img](/assets/image271.jpg)
+![图3.6-1](/assets/image271.jpg)
 
-图3.6-1
+
 
 #### 3、程序编程
 
 1）我们看到，程序中使用了一个新的模块——**串口打印**
 
-![img](/assets/image273.jpg)
+![图3.6-2](/assets/image273.jpg)
 
-图3.6-2
+
 
 2）模拟输入的信号是通过串口传给 Arduino 主控板的，使用“串口打印”可以把当前通过串口的数据显示出来。显示在串口监视器里。
 
-![img](/assets/image275.jpg)
+![图3.6-3](/assets/image275.jpg)
 
-图3.6-3
+
 
 3）单击串口监视器，会弹出一个新窗口，这个窗口中显示上传的数据:
 
-![img](/assets/image277.jpg)
+![图3.6-4](/assets/image277.jpg)
 
-图3.6-4
+
 
  
 
@@ -38,9 +38,9 @@
 
  
 
-![img](/assets/image279.jpg)
+![图3.6-5](/assets/image279.jpg)
 
-图3.6-5
+
 
 #### 5、Q&A
 
