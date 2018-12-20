@@ -4,25 +4,17 @@
 
 1）连接硬件---能否识别自动端口；如上图1.4-1所示；
 
-![img](/assets/image050.jpg)
-
-图1.4-1
+![图1.4-1](/assets/image050.jpg)
 
 2）修改控制芯片版型----Arduino/Genuino Uno（甜橙）；如图1.4-2所示：
 
-![img](/assets/image052.jpg)
-
-图1.4-2
+![图1.4-2](/assets/image052.jpg)
 
 3）连接硬件编写一个程序，如下图1.4-3，并点击基本功能区的“上传”按钮，若上传成功，会出现如图1.4-4所示，则证明软件已经安装好；
 
-![img](/assets/image054.jpg)
+![图1.4-3](/assets/image054.jpg)
 
-图1.4-3
-
-![img](/assets/image056.jpg)
-
-图1.4-4
+![图1.4-4](/assets/image056.jpg)
 
 Q1：如何正确选择端口？
 
