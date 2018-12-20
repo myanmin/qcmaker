@@ -61,7 +61,10 @@
       * [”参数“程序块简介](software/mixlyxi-tong-jie-shao/han-shu-mo-kuai-jie-shao/canshu.md)
       * [“函数执行”程序跨介绍](software/mixlyxi-tong-jie-shao/han-shu-mo-kuai-jie-shao/zhixing.md)
   * [甜橙示例程序](software/tian-cheng-shi-li-cheng-xu.md)
-    * 项目一 HELLO WORLD
+    * [项目一 HELLO WORLD](software/tian-cheng-shi-li-cheng-xu/xiang-mu-yi-hello-world.md)
+      * [任务 1——点亮真实 LED 灯](software/tian-cheng-shi-li-cheng-xu/xiang-mu-yi-hello-world/ren-wu-1-dian-liang-zhen-shi-led-deng.md)
+      * [任务2——让LED越闪越快](software/tian-cheng-shi-li-cheng-xu/xiang-mu-yi-hello-world/ren-wu-2-2014-2014-rang-led-yue-shan-yue-kuai.md)
+    * [项目二S.O.S](software/tian-cheng-shi-li-cheng-xu/xiang-mu-er-s-o-s.md)
   * [注意事项](software/zhu-yi-shi-xiang.md)
     * [硬件选择](software/zhu-yi-shi-xiang/ying-jian-xuan-ze.md)
     * [版型选择](software/zhu-yi-shi-xiang/ban-xing-xuan-ze.md)
