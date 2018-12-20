@@ -60,7 +60,7 @@
     * [函数模块介绍](software/mixlyxi-tong-jie-shao/han-shu-mo-kuai-jie-shao/)
       * [“函数准备”程序块简介](software/mixlyxi-tong-jie-shao/han-shu-mo-kuai-jie-shao/ready.md)
       * [”参数“程序块简介](software/mixlyxi-tong-jie-shao/han-shu-mo-kuai-jie-shao/canshu.md)
-      * [“函数执行”程序块](software/mixlyxi-tong-jie-shao/han-shu-mo-kuai-jie-shao/zhixing.md)[绍](software/mixlyxi-tong-jie-shao/han-shu-mo-kuai-jie-shao/zhixing.md)
+      * [“函数执行”程序块简介](software/mixlyxi-tong-jie-shao/han-shu-mo-kuai-jie-shao/zhixing.md)
   * [甜橙示例程序](software/tian-cheng-shi-li-cheng-xu/)
     * [项目一 HELLO WORLD](software/tian-cheng-shi-li-cheng-xu/xiang-mu-yi-hello-world/)
       * [任务 1——点亮真实 LED 灯](software/tian-cheng-shi-li-cheng-xu/xiang-mu-yi-hello-world/ren-wu-1-dian-liang-zhen-shi-led-deng.md)
