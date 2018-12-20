@@ -6,29 +6,21 @@
 
 #### 2、流程图
 
-![img](/assets/image373.jpg)
+![图3.14-1](/assets/image373.jpg)
 
-图3.14-1
+
 
 #### 3、程序编程
 
-![img](/assets/image374.jpg)
+![图3.14-2](/assets/image374.jpg)
 
-图3.14-2
+![图3.14-3](/assets/image375.jpg)
 
-![img](/assets/image375.jpg)
+![图3.14-4](/assets/image376.jpg)
 
-图3.14-3
+![图3.14-5](/assets/image378.jpg)
 
- 
 
-![img](/assets/image376.jpg)
-
-图3.14-4
-
-![img](/assets/image378.jpg)
-
-图3.14-5
 
 #### 4、硬件连接
 
@@ -36,9 +28,9 @@
 
 注：观察单个全彩灯模块，有电容的一角为IN，也可以看灯壳，缺角的一侧为IN端，另一端为OUT。
 
-![493907773784909381](/assets/image380.jpg)
+![图3.14-6](/assets/image380.jpg)
 
-图3.14-6
+
 
 #### 5、Q&A
 

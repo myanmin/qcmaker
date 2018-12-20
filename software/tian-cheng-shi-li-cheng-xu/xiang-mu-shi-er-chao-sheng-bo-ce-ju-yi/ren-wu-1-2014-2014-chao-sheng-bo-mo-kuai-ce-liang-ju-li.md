@@ -6,29 +6,20 @@
 
 #### 2、流程图
 
-![img](/assets/image349.jpg)
-
-图3.12-2
-
+![图3.12-2](/assets/image349.jpg)
 #### 3、程序编程
 
-![img](/assets/image351.jpg)
-
-图3.12-3
+![图3.12-3](/assets/image351.jpg)
 
 请你观察上面的程序是否能正确输出?如果不能，想一想应如何修改。
 
-![img](/assets/image353.jpg)
-
-图3.12-4
+![图3.12-4](/assets/image353.jpg)
 
 #### 4、硬件连接
 
 硬件连接：超声波——表1；液晶显示模块——表2。注意插线时的颜色对应。
 
-![img](/assets/image355.jpg)
-
-图3.12-5
+![图3.12-5](/assets/image355.jpg)
 
 表1
 
