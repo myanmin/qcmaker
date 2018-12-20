@@ -6,23 +6,17 @@
 
 #### 2、流程图
 
-![img](/assets/image234.jpg)
-
-图3.4-1
+![图3.4-1](/assets/image234.jpg)
 
 #### 3、程序编程
 
-![img](/assets/image236.jpg)
-
-图3.4-2
+![图3.4-2](/assets/image236.jpg)
 
 #### 4、硬件连接
 
 硬件连接：红外入侵检测仪——3；LED ——10。注意红外接近开关的插线：棕对红，蓝对黑，黑对黄。
 
-![img](/assets/image238.jpg)
-
-图3.4-3
+![图3.4-3](/assets/image238.jpg)
 
 #### 5、Q&A
 
