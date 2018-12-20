@@ -6,26 +6,17 @@
 
 #### 2、流程图
 
-![img](/assets/image334.jpg)
-
-图3.10-2
+![图3.10-2](/assets/image334.jpg)
 
 #### 3、程序编程
 
-![img](/assets/image336.jpg)
-
-图3.10-3
+![图3.10-3](/assets/image336.jpg)
 
 #### 4、硬件连接
 
 硬件连接：LED——10；红外遥控模块——12（主板自带）。注意插线时的颜色对应。
 
-![img](/assets/image337.jpg)
-
-图3.10-4
-
- 
-
+![图3.10-4](/assets/image337.jpg)
 #### 5、Q&A
 
 Q：是怎样接收遥控器发出的红外信号的？

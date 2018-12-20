@@ -6,26 +6,19 @@
 
 #### 2、流程图
 
-![img](/assets/image341.jpg)
-
-图3.11-2
+![图3.11-2](/assets/image341.jpg)
 
 #### 3、程序编程
 
-![img](/assets/image343.jpg)
-
-图3.11-3
+![图3.11-3](/assets/image343.jpg)
 
 #### 4、硬件连接
 
 硬件连接：蜂鸣器——8；超声波——（见表格）。注意插线时的颜色对应。
 
-![img](/assets/image345.jpg)
+![图3.11-4](/assets/image345.jpg)
 
  
-
-图3.11-4
-
  
 
 | 超声波 | 甜橙板              |
