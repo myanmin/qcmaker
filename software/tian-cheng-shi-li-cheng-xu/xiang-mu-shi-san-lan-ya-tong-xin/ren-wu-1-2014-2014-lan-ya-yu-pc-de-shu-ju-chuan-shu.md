@@ -34,9 +34,6 @@ void setup(){
   mySerial.begin(9600);
 
 }
-
- 
-
 void loop(){
 
   if (mySerial.available() > 0) {
