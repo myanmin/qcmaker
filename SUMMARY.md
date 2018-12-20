@@ -93,6 +93,7 @@
     * [项目十 遥控灯](software/tian-cheng-shi-li-cheng-xu/xiang-mu-shi-yao-kong-deng.md)
       * [任务1——制作一个红外遥控灯](software/tian-cheng-shi-li-cheng-xu/xiang-mu-shi-yao-kong-deng/ren-wu-1-2014-2014-zhi-zuo-yi-ge-hong-wai-yao-kong-deng.md)
     * [项目十一 另类电子琴](software/tian-cheng-shi-li-cheng-xu/xiang-mu-shi-yi-ling-lei-dian-zi-qin.md)
+      * [任务1——制作另类电子琴](software/tian-cheng-shi-li-cheng-xu/xiang-mu-shi-yi-ling-lei-dian-zi-qin/ren-wu-1-2014-2014-zhi-zuo-ling-lei-dian-zi-qin.md)
   * [注意事项](software/zhu-yi-shi-xiang.md)
     * [硬件选择](software/zhu-yi-shi-xiang/ying-jian-xuan-ze.md)
     * [版型选择](software/zhu-yi-shi-xiang/ban-xing-xuan-ze.md)
