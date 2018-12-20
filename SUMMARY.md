@@ -1,5 +1,6 @@
 # Summary
 
-* [Introduction](README.md)
-* [软件说明书](chapter1.md)
+* [青橙软硬件说明书简介](README.md)
+* 软件说明书
+* 硬件说明书
 

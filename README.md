@@ -1,3 +1,4 @@
-# My Awesome Book
+# 青橙软硬件说明书简介
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+本说明书主要介绍了
+
