@@ -74,6 +74,8 @@
       * [任务1——简单入侵检测仪](software/tian-cheng-shi-li-cheng-xu/xiang-mu-si-jian-yi-ru-qin-jian-ce-yi/ren-wu-1-2014-2014-jian-dan-ru-qin-jian-ce-yi.md)
       * [任务2——记录入侵](software/tian-cheng-shi-li-cheng-xu/xiang-mu-si-jian-yi-ru-qin-jian-ce-yi/ren-wu-2-2014-2014-ji-lu-ru-qin.md)
     * [项目五 可调灯](software/tian-cheng-shi-li-cheng-xu/xiang-mu-wu-ke-diao-deng.md)
+      * [任务1——简易呼吸灯](software/tian-cheng-shi-li-cheng-xu/xiang-mu-wu-ke-diao-deng/ren-wu-1-2014-2014-jian-yi-hu-xi-deng.md)
+      * [任务2——制作5档可调灯](software/tian-cheng-shi-li-cheng-xu/xiang-mu-wu-ke-diao-deng/ren-wu-2-2014-2014-zhi-zuo-5-dang-ke-diao-deng.md)
   * [注意事项](software/zhu-yi-shi-xiang.md)
     * [硬件选择](software/zhu-yi-shi-xiang/ying-jian-xuan-ze.md)
     * [版型选择](software/zhu-yi-shi-xiang/ban-xing-xuan-ze.md)
