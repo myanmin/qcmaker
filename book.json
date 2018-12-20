@@ -5,10 +5,7 @@
         "fontsettings",
         "sectionx",
         "toggle-chapters",
-        "splitter",
-        "anchor-navigation-ex",
-        "anchor-navigation-ex-toc",
-        "anchor-navigation-ex-toc@0.0.4"
+        "splitter"
         
     ],
     "pluginsConfig":{
@@ -26,15 +23,7 @@
         "toggle-chapters":{
             "url":"https://github.com/poojan/gitbook-plugin-toggle-chapters"
         },
-        "splitter":{},
-        "anchor-navigation-ex-toc@0.0.4":{
-            "showLevel": false,
-            "associatedWithSummary": false,
-            "printLog": false,
-            "multipleH1": true,
-            "showGoTop":true,
-           
-        }
+        "splitter":{}
         
     }   
 }
