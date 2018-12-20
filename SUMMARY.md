@@ -1,4 +1,4 @@
-# 目录
+# Summary
 
 * [青橙软硬件说明书简介](README.md)
 * [软件说明书](software.md)
@@ -59,7 +59,7 @@
     * [函数模块介绍](software/mixlyxi-tong-jie-shao/han-shu-mo-kuai-jie-shao.md)
       * [“函数准备”程序块简介](software/mixlyxi-tong-jie-shao/han-shu-mo-kuai-jie-shao/ready.md)
       * [”参数“程序块简介](software/mixlyxi-tong-jie-shao/han-shu-mo-kuai-jie-shao/canshu.md)
-      * [“函数执行”程序跨介绍](software/mixlyxi-tong-jie-shao/han-shu-mo-kuai-jie-shao/zhixing.md)    
+      * [“函数执行”程序跨介绍](software/mixlyxi-tong-jie-shao/han-shu-mo-kuai-jie-shao/zhixing.md)
   * [甜橙示例程序](software/tian-cheng-shi-li-cheng-xu.md)
   * [注意事项](software/zhu-yi-shi-xiang.md)
 * [硬件说明书](hardware.md)
