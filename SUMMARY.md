@@ -79,6 +79,7 @@
       * [任务3——制作旋钮可调灯](software/tian-cheng-shi-li-cheng-xu/xiang-mu-wu-ke-diao-deng/ren-wu-3-2014-2014-zhi-zuo-xuan-niu-ke-diao-deng.md)
     * [项目六 智能灯](software/tian-cheng-shi-li-cheng-xu/xiang-mu-liu-zhi-neng-deng.md)
       * [任务1——声控灯](software/tian-cheng-shi-li-cheng-xu/xiang-mu-liu-zhi-neng-deng/ren-wu-1-2014-2014-sheng-kong-deng.md)
+      * [任务2——制作楼道灯](software/tian-cheng-shi-li-cheng-xu/xiang-mu-liu-zhi-neng-deng/ren-wu-2-2014-2014-zhi-zuo-lou-dao-deng.md)
   * [注意事项](software/zhu-yi-shi-xiang.md)
     * [硬件选择](software/zhu-yi-shi-xiang/ying-jian-xuan-ze.md)
     * [版型选择](software/zhu-yi-shi-xiang/ban-xing-xuan-ze.md)
