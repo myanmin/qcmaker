@@ -7,6 +7,7 @@
     * [安装驱动](software/ren-shi-mixly/anzhuangqudong.md)
     * [Mixly界面介绍](software/ren-shi-mixly/Mixlyjiemianjieshao.md)
     * [测试软件能否正常工作](software/ren-shi-mixly/workornot.md)
+    * [安装Arduino IDE](software/ren-shi-mixly/Arduino-IDE.md)
   * [Mixly系统介绍](software/mixlyxi-tong-jie-shao.md)
   * [甜橙示例程序](software/tian-cheng-shi-li-cheng-xu.md)
   * [注意事项](software/zhu-yi-shi-xiang.md)
