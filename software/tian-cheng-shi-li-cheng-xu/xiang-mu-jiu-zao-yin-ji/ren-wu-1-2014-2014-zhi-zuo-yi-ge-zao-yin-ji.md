@@ -6,23 +6,19 @@
 
 #### 2、流程图
 
-![img](/assets/image320.jpg)
-
-图3.9-2
+![图3.9-2](/assets/image320.jpg)
 
 #### 3、程序编程
 
-![img](/assets/image322.jpg)
-
-图3.9-3
+![图3.9-3](/assets/image322.jpg)
 
 #### 4、硬件连接
 
 硬件连接： 舵机——9；模拟声音传感器——A0。注意插线时的颜色对应。
 
-![img](/assets/image324.jpg)
+![图3.9-4](/assets/image324.jpg)
 
-图3.9-4
+
 
 #### 5、Q&A
 

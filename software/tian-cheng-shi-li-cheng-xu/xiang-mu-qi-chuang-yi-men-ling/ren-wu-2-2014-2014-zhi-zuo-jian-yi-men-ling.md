@@ -6,23 +6,23 @@
 
 #### 2、流程图
 
-![img](/assets/image300.jpg)
+![图3.7-4](/assets/image300.jpg)
 
-图3.7-4
+
 
 #### 3、程序编程
 
-![img](/assets/image302.jpg)
+![图3.7-5](/assets/image302.jpg)
 
-图3.7-5
+
 
 #### 4、硬件连接
 
 硬件连接： 按钮——2；蜂鸣器——8。注意插线时的颜色对应。
 
-![img](/assets/image304.jpg)
+![图3.7-6](/assets/image304.jpg)
 
-图3.7-6
+
 
  
 

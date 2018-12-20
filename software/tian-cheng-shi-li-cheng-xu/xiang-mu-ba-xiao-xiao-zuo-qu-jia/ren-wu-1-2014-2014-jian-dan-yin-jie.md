@@ -8,23 +8,23 @@
 
 #### 2、流程图
 
-![img](/assets/image306.jpg)
+![图3.8-1](/assets/image306.jpg)
 
-图3.8-1
+
 
 #### 3、程序编程
 
-![img](/assets/image308.jpg)
+![图3.8-2](/assets/image308.jpg)
 
-图3.8-2
+
 
 #### 4、硬件连接
 
 硬件连接： 蜂鸣器——8。注意插线时的颜色对应。
 
-![img](/assets/image310.jpg)
+![图3.8-3](/assets/image310.jpg)
 
-图3.8-3
+
 
 #### 5、Q&A
 

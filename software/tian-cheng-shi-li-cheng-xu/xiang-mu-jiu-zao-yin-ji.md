@@ -6,6 +6,5 @@
 
 这是 Mixly 软件中控制舵机的程序块:
 
-![img](/assets/image318.jpg)
+![图3.9-1](/assets/image318.jpg)
 
-图3.9-1
