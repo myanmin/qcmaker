@@ -1,8 +1,4 @@
 ##mcookie硬件模块说明
-<extoc></extoc>
-
-
-
 
 
 

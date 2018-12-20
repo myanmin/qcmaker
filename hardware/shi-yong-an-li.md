@@ -1,8 +1,6 @@
 ## 1.2使用案例
 
 
-<extoc></extoc>
-
 
 
 甜橙 2.0 主控板在案例中作为主控制器使用，使用 MicroUSB 线上传程序。在 Mixly 和 Arduino IDE 中，需要正确选取开发板类型和 COM 口才能正常上传程序。以下将介绍在 Mixly 和 ArduinoIDE 编译环境下如何选取开发板类型和COM 口。

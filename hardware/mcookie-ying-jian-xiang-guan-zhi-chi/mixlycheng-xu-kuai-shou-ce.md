@@ -1,7 +1,4 @@
 ##Mixly程序块手册
-<extoc></extoc>
-
-
 
 
 ###传感器

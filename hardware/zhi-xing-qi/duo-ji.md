@@ -2,8 +2,6 @@
 
 ![](/assets/硬件1224644.png)
 
-<extoc></extoc>
-
 
 
 

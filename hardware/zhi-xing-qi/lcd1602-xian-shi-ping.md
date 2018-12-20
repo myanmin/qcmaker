@@ -3,8 +3,6 @@
 ![](/assets/硬件1223694.png)
 
 
-<extoc></extoc>
-
 
 
 
