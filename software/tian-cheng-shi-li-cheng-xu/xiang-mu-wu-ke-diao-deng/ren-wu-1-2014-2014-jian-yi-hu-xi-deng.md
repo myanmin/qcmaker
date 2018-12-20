@@ -6,21 +6,15 @@
 
 #### 2、流程图
 
-![img](/assets/image246.jpg)
-
-图3.5-1
+![图3.5-1](/assets/image246.jpg)
 
 #### 3、程序编程
 
-![img](/assets/image248.jpg)
-
-图3.5-2
+![图3.5-2](/assets/image248.jpg)
 
 不难看出，上面这个函数的功能是让 LED 灯逐渐变亮。 要实现任务要求，还需要一个让 LED 逐渐变暗的函数。 完整的程序如下图：
 
-![img](/assets/image250.jpg)
-
-图3.5-3
+![图3.5-3](/assets/image250.jpg)
 
 这段程序中我们接触到了两个新的模块——**函数以及模拟输出。**
 
@@ -30,9 +24,7 @@
 
 硬件连接：LED ——10。注意插线时的颜色对应。
 
-![img](/assets/image252.jpg)
-
-图3.5-4
+![图3.5-4](/assets/image252.jpg)
 
 #### 5、Q&A
 
@@ -52,10 +44,7 @@ A：检查fadeOff函数的步长为-5，而不是5。
 
 Arduino 使用 analogWrite(int value)输出 PWM 信号，其中的value 取值范围是 0-255，效果如图3.5-5所示。Arduino 主控板只有有限个GPIO 管脚支持 PWM。观察一下 Arduino 板，查看数字引脚，你会发现其中 6 个引脚（3、5、6、9、10、11）旁标有“~”，这些引脚不同于其他引脚，因为它们可以输出 PWM 信号。
 
-![img](/assets/image254.jpg)
+![图3.5-5](/assets/image254.jpg)
 
-图3.5-5
+![图3.5-6](/assets/image255.jpg)
 
-![img](/assets/image255.jpg)
-
-图3.5-6

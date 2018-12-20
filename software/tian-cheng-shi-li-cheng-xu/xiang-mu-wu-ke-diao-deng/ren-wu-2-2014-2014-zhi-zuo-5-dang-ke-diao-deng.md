@@ -6,15 +6,14 @@
 
 #### 2、流程图
 
-![img](/assets/image257.jpg)
+![图3.5-7](/assets/image257.jpg)
 
-图3.5-7
 
 #### 3、程序编程
 
-![img](/assets/image259.jpg)
+![图3.5-8](/assets/image259.jpg)
 
-图3.5-8
+
 
 程序中“brightness 赋值为”一句里，对变量进行了运算操作:(brightness+1)%6。这里的“%”是一个运算符号，叫做“取余”，这个式子的结果是 brightness+1 后的数 除以 6 得到的余数。
 
@@ -22,9 +21,9 @@
 
 硬件连接：LED ——10；按钮——2。注意插线时的颜色对应。
 
-![img](/assets/image261.jpg)
+![图3.5-9](/assets/image261.jpg)
 
-图3.5-9
+
 
 #### 5、Q&A
 
