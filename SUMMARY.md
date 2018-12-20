@@ -66,7 +66,7 @@
     * [硬件选择](software/zhu-yi-shi-xiang/ying-jian-xuan-ze.md)
     * [版型选择](software/zhu-yi-shi-xiang/ban-xing-xuan-ze.md)
     * [COM口选择](software/zhu-yi-shi-xiang/comkou-xuan-ze.md)
-    * 编译失败
+    * [编译失败](software/zhu-yi-shi-xiang/bian-yi-shi-bai.md)
     * 上传失败
 * [硬件说明书](hardware.md)
   * [甜橙2.0主控板](hardware/tian-cheng-2-0-zhu-kong-ban.md)
