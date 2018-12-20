@@ -1,8 +1,6 @@
 甜橙主控板各部分如下图4-1：
 
-![img](/assets/image404.jpg)
-
-图4-1
+![图4-1](/assets/image404.jpg)
 
 甜橙 2.0 主控板是以 ATMEGA328P 为核心的单片机开发板，与 Arduino UNO 兼容的控制器模块，该主控板支持Arduino IDE 编程和 Mixly 图形化编程。
 

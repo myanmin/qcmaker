@@ -2,8 +2,8 @@
 
 版型为Arduino/Genuino Uno；如图所示：
 
-![img](/assets/image405.jpg)
+![图4-2](/assets/image405.jpg)
 
-图4-2
+
 
  
