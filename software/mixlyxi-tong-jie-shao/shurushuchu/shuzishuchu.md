@@ -4,10 +4,7 @@
 
 在 Mixly 左侧模块栏中选择 输入/输出 →数字输出，如图 2.2-4；然后将管脚号改为 13，如图 2.2-5 所示。
 
-![img](/assets/image078.jpg)
+![图 2.2-4](/assets/image078.jpg)
 
-图 2.2-4
+![图 2.2-5](/assets/image080.jpg)
 
-![img](/assets/image080.jpg)
-
-图 2.2-5
