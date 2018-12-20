@@ -6,12 +6,7 @@
 
 功能描述：按照时间先后，依次执行语句A，语句B；是最为常见的一种结构；  
 
-![img](/assets/image117.jpg)
+![图2.4-1](/assets/image117.jpg)
 
+![图2.4-2](/assets/image119.jpg)
 
-
-图2.4-1
-
-![img](/assets/image119.jpg)
-
-图2.4-2
