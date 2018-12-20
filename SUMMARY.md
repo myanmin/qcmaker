@@ -65,7 +65,7 @@
   * [注意事项](software/zhu-yi-shi-xiang.md)
     * [硬件选择](software/zhu-yi-shi-xiang/ying-jian-xuan-ze.md)
     * [版型选择](software/zhu-yi-shi-xiang/ban-xing-xuan-ze.md)
-    * COM口选择
+    * [COM口选择](software/zhu-yi-shi-xiang/comkou-xuan-ze.md)
     * 编译失败
     * 上传失败
 * [硬件说明书](hardware.md)
