@@ -1,0 +1,53 @@
+{
+    "author":"clisia",
+    "descriotion":"文档插件使用",
+    "plugins":  [
+        "fontsettings",
+        "sectionx",
+        "toggle-chapters",
+        "splitter",
+        "anchor-navigation-ex",
+        "anchor-navigation-ex-toc",
+        "anchor-navigation-ex-toc@0.0.4"
+        
+    ],
+    "pluginsConfig":{
+        "theme-default": {
+            "showLevel": false
+        },
+        "fontsettings":{
+            "theme":"white",
+            "family":"serif",
+            "size": 2
+        },
+        "sectionx":{
+            "url":"https://github.com/ymcatar/gitbook-plugin-sectionx"
+        },
+        "toggle-chapters":{
+            "url":"https://github.com/poojan/gitbook-plugin-toggle-chapters"
+        },
+        "splitter":{},
+        "anchor-navigation-ex-toc@0.0.4":{
+            "showLevel": false,
+            "associatedWithSummary": false,
+            "printLog": false,
+            "multipleH1": true,
+            "mode": "float",
+            "showGoTop":true,
+            "float": {
+                "floatIcon": "fa-navicon",
+                "showLevelIcon": false,
+                "level1Icon": "fa fa-hand-o-right",
+                "level2Icon": "fa fa-hand-o-right",
+                "level3Icon": "fa fa-hand-o-right"
+            },
+            "pageTop": {
+                "showLevelIcon": false,
+                "level1Icon": "fa fa-hand-o-right",
+                "level2Icon": "fa fa-hand-o-right",
+                "level3Icon": "fa fa-hand-o-right"
+    }
+        }
+        
+    }   
+}
