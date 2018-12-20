@@ -84,6 +84,7 @@
     * [项目七 创意门铃](software/tian-cheng-shi-li-cheng-xu/xiang-mu-qi-chuang-yi-men-ling.md)
       * [任务1——让蜂鸣器发声](software/tian-cheng-shi-li-cheng-xu/xiang-mu-qi-chuang-yi-men-ling/ren-wu-1-2014-2014-rang-feng-ming-qi-fa-sheng.md)
       * [任务2——制作简易门铃](software/tian-cheng-shi-li-cheng-xu/xiang-mu-qi-chuang-yi-men-ling/ren-wu-2-2014-2014-zhi-zuo-jian-yi-men-ling.md)
+    * [项目八 小小作曲家](software/tian-cheng-shi-li-cheng-xu/xiang-mu-ba-xiao-xiao-zuo-qu-jia.md)
   * [注意事项](software/zhu-yi-shi-xiang.md)
     * [硬件选择](software/zhu-yi-shi-xiang/ying-jian-xuan-ze.md)
     * [版型选择](software/zhu-yi-shi-xiang/ban-xing-xuan-ze.md)
