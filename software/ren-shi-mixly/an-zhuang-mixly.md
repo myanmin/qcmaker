@@ -51,7 +51,8 @@ b、打开Mixly的功能区正常，但程序编写完成好无法编译通过�
 
 如图1.1-7所示：
 
-Java.lang.NullpointerException          at.org.mixly.Browser_new.upload(Browser_new.java:2004)  at.org.mixly.Browser_new.accessS43(Browser_new.java:1938)    at.org.mixly.Browser_newS54.run(Browser_new.java:1753)
+Java.lang.NullpointerException          
+at.org.mixly.Browser_new.upload(Browser_new.java:2004)  at.org.mixly.Browser_new.accessS43(Browser_new.java:1938)    at.org.mixly.Browser_newS54.run(Browser_new.java:1753)
 at.java.lang.Thread.run(Thread.java:748)
 
 上传失败！
