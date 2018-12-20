@@ -95,6 +95,8 @@
     * [项目十一 另类电子琴](software/tian-cheng-shi-li-cheng-xu/xiang-mu-shi-yi-ling-lei-dian-zi-qin.md)
       * [任务1——制作另类电子琴](software/tian-cheng-shi-li-cheng-xu/xiang-mu-shi-yi-ling-lei-dian-zi-qin/ren-wu-1-2014-2014-zhi-zuo-ling-lei-dian-zi-qin.md)
     * [项目十二 超声波测距仪](software/tian-cheng-shi-li-cheng-xu/xiang-mu-shi-er-chao-sheng-bo-ce-ju-yi.md)
+      * [任务1——超声波模块测量距离](software/tian-cheng-shi-li-cheng-xu/xiang-mu-shi-er-chao-sheng-bo-ce-ju-yi/ren-wu-1-2014-2014-chao-sheng-bo-mo-kuai-ce-liang-ju-li.md)
+    * [项目十三 蓝牙通信](software/tian-cheng-shi-li-cheng-xu/xiang-mu-shi-san-lan-ya-tong-xin.md)
   * [注意事项](software/zhu-yi-shi-xiang.md)
     * [硬件选择](software/zhu-yi-shi-xiang/ying-jian-xuan-ze.md)
     * [版型选择](software/zhu-yi-shi-xiang/ban-xing-xuan-ze.md)
