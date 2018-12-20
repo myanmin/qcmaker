@@ -12,6 +12,5 @@
 
 6）甜橙版用电设备是否太多，造成端口自动断开，可外接电源。
 
-![abrdude](/assets/image408.jpg)
+![图4-4](/assets/image408.jpg)
 
-图4-4
