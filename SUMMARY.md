@@ -8,5 +8,5 @@
   * [甜橙示例程序](software/tian-cheng-shi-li-cheng-xu.md)
   * [注意事项](software/zhu-yi-shi-xiang.md)
 * [硬件说明书](hardware.md)
-  * 甜橙2.0主控板
+  * [甜橙2.0主控板](hardware/tian-cheng-2-0-zhu-kong-ban.md)
 
