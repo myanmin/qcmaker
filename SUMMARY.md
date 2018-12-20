@@ -97,6 +97,7 @@
     * [项目十二 超声波测距仪](software/tian-cheng-shi-li-cheng-xu/xiang-mu-shi-er-chao-sheng-bo-ce-ju-yi.md)
       * [任务1——超声波模块测量距离](software/tian-cheng-shi-li-cheng-xu/xiang-mu-shi-er-chao-sheng-bo-ce-ju-yi/ren-wu-1-2014-2014-chao-sheng-bo-mo-kuai-ce-liang-ju-li.md)
     * [项目十三 蓝牙通信](software/tian-cheng-shi-li-cheng-xu/xiang-mu-shi-san-lan-ya-tong-xin.md)
+      * [任务1——蓝牙与PC的数据传输](software/tian-cheng-shi-li-cheng-xu/xiang-mu-shi-san-lan-ya-tong-xin/ren-wu-1-2014-2014-lan-ya-yu-pc-de-shu-ju-chuan-shu.md)
   * [注意事项](software/zhu-yi-shi-xiang.md)
     * [硬件选择](software/zhu-yi-shi-xiang/ying-jian-xuan-ze.md)
     * [版型选择](software/zhu-yi-shi-xiang/ban-xing-xuan-ze.md)
