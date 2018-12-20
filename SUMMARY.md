@@ -56,7 +56,7 @@
       * [“变量声明”程序块简介](software/mixlyxi-tong-jie-shao/bianliang/shengming.md)
       * [“变量赋值”程序块简介](software/mixlyxi-tong-jie-shao/bianliang/fuzhi.md)
       * [“变量值类型”程序块简介](software/mixlyxi-tong-jie-shao/bianliang/leixing.md)
-    * 函数模块介绍
+    * [函数模块介绍](software/mixlyxi-tong-jie-shao/han-shu-mo-kuai-jie-shao.md)
   * [甜橙示例程序](software/tian-cheng-shi-li-cheng-xu.md)
   * [注意事项](software/zhu-yi-shi-xiang.md)
 * [硬件说明书](hardware.md)
