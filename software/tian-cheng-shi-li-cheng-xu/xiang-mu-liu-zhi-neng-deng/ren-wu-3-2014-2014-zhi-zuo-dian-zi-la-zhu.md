@@ -6,23 +6,17 @@
 
 #### 2、流程图
 
-![img](/assets/image289.jpg)
-
-图3.6-10
+![图3.6-10](/assets/image289.jpg)
 
 #### 3、程序编程
 
-![img](/assets/image291.jpg)
-
-图3.6-11
+![图3.6-11](/assets/image291.jpg)
 
 #### 4、硬件连接
 
 硬件连接：LED ——10；模拟声音传感器——A0；模拟光线传感器——A1。注意插线时的颜色对应。
 
-![img](/assets/image292.jpg)
-
-图3.6-12
+![图3.6-12](/assets/image292.jpg)
 
 #### 5、Q&A
 
