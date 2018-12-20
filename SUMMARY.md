@@ -68,6 +68,8 @@
       * [任务 1——用 LED 发出求救信号](software/tian-cheng-shi-li-cheng-xu/xiang-mu-er-s-o-s/ren-wu-1-2014-2014-yong-led-fa-chu-qiu-jiu-xin-hao.md)
     * [项目三 神奇的按钮](software/tian-cheng-shi-li-cheng-xu/xiang-mu-san-shen-qi-de-an-niu.md)
       * [任务1——简易延时灯](software/tian-cheng-shi-li-cheng-xu/xiang-mu-san-shen-qi-de-an-niu/ren-wu-1-2014-2014-jian-yi-yan-shi-deng.md)
+      * [任务2——使用按钮模拟开关\(1\)](software/tian-cheng-shi-li-cheng-xu/xiang-mu-san-shen-qi-de-an-niu/ren-wu-2-2014-2014-shi-yong-an-niu-mo-ni-kai-517328-1.md)
+      * [任务3——使用按钮模拟开关\(2\)](software/tian-cheng-shi-li-cheng-xu/xiang-mu-san-shen-qi-de-an-niu/ren-wu-3-2014-2014-shi-yong-an-niu-mo-ni-kai-517328-2.md)
   * [注意事项](software/zhu-yi-shi-xiang.md)
     * [硬件选择](software/zhu-yi-shi-xiang/ying-jian-xuan-ze.md)
     * [版型选择](software/zhu-yi-shi-xiang/ban-xing-xuan-ze.md)
