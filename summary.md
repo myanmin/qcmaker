@@ -5,7 +5,7 @@
 * [软件说明书](software/)
   * [认识Mixly](software/ren-shi-mixly/)
     * [安装Mixly](software/ren-shi-mixly/an-zhuang-mixly.md)
-    * [安装驱动](software/ren-shi-mixly/anzhuangqudong.md)
+    * [认识mixly](software/ren-shi-mixly/anzhuangqudong.md)
     * [Mixly界面介绍](software/ren-shi-mixly/mixlyjiemianjieshao.md)
     * [测试软件能否正常工作](software/ren-shi-mixly/workornot.md)
     * [安装Arduino IDE](software/ren-shi-mixly/arduino-ide.md)
