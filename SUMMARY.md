@@ -2,8 +2,6 @@
 
 * [青橙软硬件说明书简介](README.md)
 * [目录](summary.md)
-* [青橙软硬件说明书简介](./)
-* [目录](summary.md)
 * [软件说明书](software/)
   * [认识Mixly](software/ren-shi-mixly/)
     * [安装Mixly](software/ren-shi-mixly/an-zhuang-mixly.md)
